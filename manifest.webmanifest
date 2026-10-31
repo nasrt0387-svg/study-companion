@@ -1,9 +1,1 @@
-{
-  "name": "Study Companion",
-  "short_name": "Study",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f4f5ef",
-  "theme_color": "#14251f",
-  "icons": []
-}
+{"name":"Study Companion","short_name":"Study","start_url":"./","display":"standalone","background_color":"#f3f5ef","theme_color":"#173d31"}
